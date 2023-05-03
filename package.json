@@ -28,5 +28,8 @@
 		"@typescript-eslint/parser": "^5.59.2",
 		"eslint": "^8.39.0",
 		"typescript": "^5.0.4"
+	},
+	"dependencies": {
+		"telegraf": "^4.12.2"
 	}
 }
