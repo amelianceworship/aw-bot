@@ -10,11 +10,19 @@
 		"type": "git",
 		"url": "git+https://github.com/amelianceworship/aw-bot.git"
 	},
-	"keywords": [ "bot", "telegram", "worship", "ameliance" ],
+	"keywords": [
+		"bot",
+		"telegram",
+		"worship",
+		"ameliance"
+	],
 	"author": "AmelianceSkyMusic <amelianceskymusic@gmail.com>",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/amelianceworship/aw-bot/issues"
 	},
-	"homepage": "https://github.com/amelianceworship/aw-bot#readme"
+	"homepage": "https://github.com/amelianceworship/aw-bot#readme",
+	"devDependencies": {
+		"typescript": "^5.0.4"
+	}
 }
