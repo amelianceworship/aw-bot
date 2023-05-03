@@ -24,6 +24,7 @@
 	},
 	"homepage": "https://github.com/amelianceworship/aw-bot#readme",
 	"devDependencies": {
+		"@types/node": "^18.16.3",
 		"@typescript-eslint/eslint-plugin": "^5.59.2",
 		"@typescript-eslint/parser": "^5.59.2",
 		"dotenv": "^16.0.3",
