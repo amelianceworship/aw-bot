@@ -1,0 +1,20 @@
+{
+	"name": "aw-bot",
+	"version": "0.0.1",
+	"description": "ameliance worship telegram bot",
+	"main": "index.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/amelianceworship/aw-bot.git"
+	},
+	"keywords": [ "bot", "telegram", "worship", "ameliance" ],
+	"author": "AmelianceSkyMusic <amelianceskymusic@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/amelianceworship/aw-bot/issues"
+	},
+	"homepage": "https://github.com/amelianceworship/aw-bot#readme"
+}
